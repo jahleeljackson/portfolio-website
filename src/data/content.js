@@ -7,7 +7,7 @@ export const profile = {
     { label: 'LinkedIn', href: 'https://linkedin.com/in/jahleeljackson' },
   ],
   bio: 'Systems Engineering student who builds technical AI systems and translates complex architectures into clear recommendations for executives and stakeholders. Experienced in multi-agent systems, applied ML, and turning operational problems into measurable technical solutions.',
-  portraitSrc: '/Drumheller,Josie9.19.252ndYearCouncilHeadshotSession57.jpg',
+  portraitSrc: '/about-image.jpg',
   portraitAlt: 'Portrait placeholder for Jahleel Jackson',
 };
 
