@@ -122,9 +122,27 @@ export const leadership = [
  */
 export const videos = [
   {
+    title: 'What you can expect to see on my portfolio',
+    date: '2026-11-16',
+    youtubeId: 'u2NlAEPPans',
+    description: '',
+  },
+  {
     title: 'Project Demo of XGBoosted Orchestrator',
     date: '2025-12-31',
     youtubeId: 'I2gQX0WjA2M',
+    description: '',
+  },
+  {
+    title: 'Project Demo of Simplify AI',
+    date: '2025-05-16',
+    youtubeId: '9UntsA_riec',
+    description: '',
+  },
+  {
+    title: 'Project Demo of Book Recommendation System',
+    date: '2025-05-9',
+    youtubeId: 'vPV-n0q69PM',
     description: '',
   },
 ];
