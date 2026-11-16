@@ -141,7 +141,7 @@ export const videos = [
   },
   {
     title: 'Project Demo of Book Recommendation System',
-    date: '2025-05-9',
+    date: '2025-05-09',
     youtubeId: 'vPV-n0q69PM',
     description: '',
   },
